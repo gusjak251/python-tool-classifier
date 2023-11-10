@@ -1,0 +1,4 @@
+coremltools==7.1
+numpy==1.26.1
+opencv-python==4.7.0.72
+Pillow==10.0.0
